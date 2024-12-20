@@ -9,8 +9,8 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import StaleElementReferenceException
 
 # LinkedIn credentials (store securely, consider environment variables)
-linkedin_username = "2002ehsansoltani@gmail.com"
-linkedin_password = "Vqi+x0!wnB)%C57"
+linkedin_username = ""
+linkedin_password = ""
 
 
 # Set up Chrome driver with options
